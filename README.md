@@ -12,17 +12,17 @@ This dashboard presents a comprehensive overview of road accidents, providing in
 * Current year casualities by area/location & by day/night
 * Total casualities and total accidents by location
 ## Project Insights:
-   - Overall Accident Picture:
+Overall Accident Picture:
    * Total casualties have decreased by 11.7% compared to the previous year.
    * Total accidents have also seen a significant drop of 33.3%.
    * However, it's crucial to note that fatal casualties have only decreased by 16.2%, indicating a need for further investigation into the causes of these fatalities.
-   - Casualty Trends:
+Casualty Trends:
    * The "CY Casualities vs PY Casualities monthly trend" chart shows a fluctuating pattern, with spikes in certain months. This suggests seasonal variations or specific events that may be contributing to accidents.
    * The "Casualities by Urban/Rural" pie chart indicates that a higher proportion of casualties occur in urban areas.
-   - Accident Factors:
+Accident Factors:
    * "Casualities by Road Type" reveals that single carriageway roads have the highest number of casualties, followed by dual carriageways.
    * "Casualities by Light Condition" shows that a significant portion of accidents happen during dark conditions.
-   - Vehicle Involvement:
+Vehicle Involvement:
    * "Casualities by Vehicle Type" highlights that cars are the most frequently involved vehicles in accidents.
 ## Key Metrics:
  * Total CY Casualties: 195.7K
